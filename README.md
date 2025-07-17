@@ -6,6 +6,8 @@ A cleanly merged, Unicode-rich **NotoSans** TTF font collection supporting over 
 
 ## ✅ Supported Scripts (Thin Weight Example)
 
+- English
+- Turkish
 - Arabic (Naskh, Kufi, Nastaliq)
 - Armenian
 - Balinese
